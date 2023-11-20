@@ -9,8 +9,7 @@
    * É interessante quando você não sabe bem qual é o tipo do objeto que será usado.
 
 ### Uml do factory method
-
-![UmlFactoryMethod.png](UmlFactoryMethod.png)
+![UmlFactoryMethod](UmlFactoryMethod.png)
 
 ### Vantagens
 * Remoção do forte acoplamento entre as classes
